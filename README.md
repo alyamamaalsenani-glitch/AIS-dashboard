@@ -1,4 +1,4 @@
-#AIS Anomaly Console — Vessel Behaviour Analysis🚢⚓
+# AIS Anomaly Console — Vessel Behaviour Analysis🚢⚓
 
 A self-contained interactive dashboard for exploring anomalous vessel behaviour detected from AIS (Automatic Identification System) data using machine learning.
 
