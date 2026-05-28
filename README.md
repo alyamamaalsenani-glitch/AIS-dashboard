@@ -63,6 +63,3 @@ No installation, no dependencies to install — everything is bundled.
 Data © NOAA MarineCadastre. Map tiles © CartoDB / OpenStreetMap contributors.
 Code released for educational / research purposes.
 
----
-
-Let me know if you'd like an Arabic version, a shorter version, or screenshots/badges added.# AIS-dashboard
