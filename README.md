@@ -3,11 +3,11 @@
 A self-contained interactive dashboard for exploring anomalous vessel behaviour detected from AIS (Automatic Identification System) data using machine learning.
 
 **Dataset:** NOAA MarineCadastre — 17 December 2019 (UTC)
-**Output:** Single `dashboard.html` file with all data embedded .
+**Output:** Single `index.html` file with all data embedded .
 
 ## Preview
 
-Open `dashboard.html` in any modern browser. The dashboard works offline (only the map tiles and a few CDN libraries need internet).
+Open `index.html` in any modern browser. The dashboard works offline (only the map tiles and a few CDN libraries need internet).
 
 ## Features
 
@@ -40,9 +40,9 @@ Open `dashboard.html` in any modern browser. The dashboard works offline (only t
 
 ```bash
 # Just open the file
-start dashboard.html        # Windows
-open dashboard.html         # macOS
-xdg-open dashboard.html     # Linux
+start index.html       # Windows
+open index.html       # macOS
+xdg-open index.html     # Linux
 ```
 
 No installation, no dependencies to install — everything is bundled.
@@ -51,7 +51,7 @@ No installation, no dependencies to install — everything is bundled.
 
 ```
 .
-└── dashboard.html   # Self-contained dashboard (HTML + CSS + JS + embedded data)
+└── index.html   # Self-contained dashboard (HTML + CSS + JS + embedded data)
 ```
 
 ## Data source
